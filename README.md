@@ -2,5 +2,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erduotong)](https://github.com/erduotong/github-readme-stats)      
 ![B站统计](https://stats.justsong.cn/api/bilibili/?id=1486177608&theme=dark)  
 
-Hi, Welcome!
+Hi, welcome!   
 Click here for more info: [My Blog](https://blog.erduotong.com)
